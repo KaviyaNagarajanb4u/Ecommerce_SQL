@@ -7,5 +7,10 @@
  Using cast method to convert datatype.
  using inner join method
  Using Date diff method to calculate difference between two dates
+
+
+ ------------------------------------------------------------
+ Datasets are saved in csv file and output also saved in csv file.
+ Final screenshot is attached in name of screenshot_output.
  
  
